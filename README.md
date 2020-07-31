@@ -8,10 +8,8 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/pwned_by_marcus?style=for-the-badge)
 
------ Begin Auto Readme -----
+# [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-### Generated at 2020-07-31 15:04:28.068040
-
-[view the script on my repl.it](https://repl.it/@MarcusWeinberger/auto-git-readme)
+### Generated at 2020-07-31 15:07:01.364553
 
 ----- End Auto Readme -----
