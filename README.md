@@ -10,6 +10,12 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-### Generated at 2020-07-31 15:07:01.364553
+### Generated at 2020-07-31 15:12:53.656698
+
+* Kanye quote-of-the-day:
+
+> George Bush doesn't care about black people
+
+* [my latest post on ruqqus](ruqqus.me().listing()[0].permalink)
 
 ----- End Auto Readme -----
