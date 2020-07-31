@@ -7,12 +7,17 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-### Generated at 2020-07-31 15:20:21.600665
+## Generated at 2020-07-31 15:59:43.686681+00:00 UTC
 
-* Kanye quote-of-the-day:
+### Quotes
 
-> If I don't scream, if I don't say something then no one's going to say anything.
+> "My greatest pain in life is that I will never be able to see myself perform live." - Kanye
+
+> "Wubba lubba dub dub!" - Rick and Morty
+
+### Other
 
 * [My latest post on ruqqus](https://ruqqus.com/post/1olm/script-for-generating-unlimited-gb-on)
-* Latest Covid-19 data: `{'NewConfirmed': 266383, 'TotalConfirmed': 17294804, 'NewDeaths': 6055, 'TotalDeaths': 673159, 'NewRecovered': 184416, 'TotalRecovered': 10131928}`
-* [Random kahoot quiz](https://create.kahoot.it/details/act-science-set-2/a49f446d-9ed9-43e5-bac3-0e30f847f625)
+* Latest Covid-19 data: `{'NewConfirmed': 266797, 'TotalConfirmed': 17295218, 'NewDeaths': 6055, 'TotalDeaths': 673159, 'NewRecovered': 184416, 'TotalRecovered': 10131928}`
+* [Random kahoot quiz](https://create.kahoot.it/details/star-wars-memes/1e2bab04-cfb2-4010-b129-4e59a901a7a2)
+
