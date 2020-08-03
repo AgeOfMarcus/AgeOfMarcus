@@ -7,17 +7,17 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-02 22:28:30.998229+00:00 UTC
+## Generated at 2020-08-03 12:46:07.281802+00:00 UTC
 
 ### Quotes
 
-> "You can't look at a glass half full or empty if it's overflowing." - Kanye
+> "Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun." - Kanye
 
-> "He threatened to turn me in to the government, so I made him and the government go away!" - Rick/Morty
+> "Well he roped me into this!" - Rick/Morty
 
 ### Other
 
-* [My latest post on ruqqus](https://ruqqus.com/post/1olm/script-for-generating-unlimited-gb-on)
-* Latest Covid-19 data: `{'NewConfirmed': 257886, 'TotalConfirmed': 17849120, 'NewDeaths': 5615, 'TotalDeaths': 685038, 'NewRecovered': 222627, 'TotalRecovered': 10552934}`
-* [Random kahoot quiz](https://create.kahoot.it/details/general-knowledge/314c6f37-4a92-45e3-b4f9-29fe7f2650c9)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+itookapicture)
+* Latest Covid-19 data: `{'NewConfirmed': 228657, 'TotalConfirmed': 18078392, 'NewDeaths': 4292, 'TotalDeaths': 689337, 'NewRecovered': 136774, 'TotalRecovered': 10689708}`
+* [Random kahoot quiz](https://create.kahoot.it/details/star-wars-memes/1e2bab04-cfb2-4010-b129-4e59a901a7a2)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
