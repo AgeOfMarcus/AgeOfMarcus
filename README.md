@@ -7,17 +7,17 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-03 19:22:25.995126+00:00 UTC
+## Generated at 2020-08-04 07:20:11.919901+00:00 UTC
 
 ### Quotes
 
-> "People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!" - Kanye
+> "The world is our office" - Kanye
 
-> "Since we're fighting, if you ever have an affair with that guy, I will come to the hotel room and blow my brains out all over your naked bodies." - Rick/Morty
+> "It's called carpe diem Morty. Look it up." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+PetPeeves)
-* Latest Covid-19 data: `{'NewConfirmed': 228657, 'TotalConfirmed': 18078392, 'NewDeaths': 4292, 'TotalDeaths': 689337, 'NewRecovered': 136774, 'TotalRecovered': 10689708}`
-* [Random kahoot quiz](https://create.kahoot.it/details/java-functional-programming/62f9e300-47e1-4ca4-8c4d-f949ecec3e70)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+ArtPorn)
+* Latest Covid-19 data: `{'NewConfirmed': 202703, 'TotalConfirmed': 18281475, 'NewDeaths': 4334, 'TotalDeaths': 693678, 'NewRecovered': 222445, 'TotalRecovered': 10912349}`
+* [Random kahoot quiz](https://create.kahoot.it/details/physical-science-the-nature-of-light/ea36b830-a38c-4f24-adf3-35a4c73dec0c)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
