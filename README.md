@@ -7,17 +7,17 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-04 22:14:36.928456+00:00 UTC
+## Generated at 2020-08-04 23:29:53.071734+00:00 UTC
 
 ### Quotes
 
-> "2024" - Kanye
+> "Today is the best day ever and tomorrow's going to be even better" - Kanye
 
-> "Go home and drink, grandpa." - Rick/Morty
+> "Yea and I made the stars that became the carbon in your mothers ovaries!" - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+LearnMath)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+bad_design)
 * Latest Covid-19 data: `{'NewConfirmed': 202486, 'TotalConfirmed': 18281475, 'NewDeaths': 4332, 'TotalDeaths': 693678, 'NewRecovered': 222445, 'TotalRecovered': 10912349}`
-* [Random kahoot quiz](https://create.kahoot.it/details/java-functional-programming/62f9e300-47e1-4ca4-8c4d-f949ecec3e70)
+* [Random kahoot quiz](https://create.kahoot.it/details/star-wars-memes/1e2bab04-cfb2-4010-b129-4e59a901a7a2)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
