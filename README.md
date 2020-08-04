@@ -7,17 +7,17 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-04 20:10:30.425925+00:00 UTC
+## Generated at 2020-08-04 22:14:36.928456+00:00 UTC
 
 ### Quotes
 
-> "I love sleep; it's my favorite." - Kanye
+> "2024" - Kanye
 
-> "Your failures are your own, old man! I say, follow throooough!" - Rick/Morty
+> "Go home and drink, grandpa." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+GameStop)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+LearnMath)
 * Latest Covid-19 data: `{'NewConfirmed': 202486, 'TotalConfirmed': 18281475, 'NewDeaths': 4332, 'TotalDeaths': 693678, 'NewRecovered': 222445, 'TotalRecovered': 10912349}`
-* [Random kahoot quiz](https://create.kahoot.it/details/act-science-set-2/a49f446d-9ed9-43e5-bac3-0e30f847f625)
+* [Random kahoot quiz](https://create.kahoot.it/details/java-functional-programming/62f9e300-47e1-4ca4-8c4d-f949ecec3e70)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
