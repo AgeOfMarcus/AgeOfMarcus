@@ -7,17 +7,17 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-04 16:18:13.482886+00:00 UTC
+## Generated at 2020-08-04 20:10:30.425925+00:00 UTC
 
 ### Quotes
 
-> "I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle" - Kanye
+> "I love sleep; it's my favorite." - Kanye
 
-> "And now, human music. boop beep boop... boop beep boop..." - Rick/Morty
+> "Your failures are your own, old man! I say, follow throooough!" - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+Organisms)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+GameStop)
 * Latest Covid-19 data: `{'NewConfirmed': 202486, 'TotalConfirmed': 18281475, 'NewDeaths': 4332, 'TotalDeaths': 693678, 'NewRecovered': 222445, 'TotalRecovered': 10912349}`
-* [Random kahoot quiz](https://create.kahoot.it/details/star-wars-memes/1e2bab04-cfb2-4010-b129-4e59a901a7a2)
+* [Random kahoot quiz](https://create.kahoot.it/details/act-science-set-2/a49f446d-9ed9-43e5-bac3-0e30f847f625)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
