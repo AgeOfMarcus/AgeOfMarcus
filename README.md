@@ -7,17 +7,17 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-05 06:08:59.218474+00:00 UTC
+## Generated at 2020-08-05 08:14:20.433888+00:00 UTC
 
 ### Quotes
 
-> "Today is the best day ever and tomorrow's going to be even better" - Kanye
+> "Fur pillows are hard to actually sleep on" - Kanye
 
-> "Morty! The principal and I have discussed it, a-a-and we're both insecure enough to agree to a three-way!" - Rick/Morty
+> "What, you think I'd waste our home teaching you a fucking lesson? I am gonna miss this place, though: Johnny Carson's still alive and on the air, 9/11 never happened, and Rocky Road ice cream has peanut butter and jelly instead of marshmallows." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+YouSeeingThisShit)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+Bhubaneswar)
 * Latest Covid-19 data: `{'NewConfirmed': 257911, 'TotalConfirmed': 18539385, 'NewDeaths': 6956, 'TotalDeaths': 700634, 'NewRecovered': 221735, 'TotalRecovered': 11134084}`
-* [Random kahoot quiz](https://create.kahoot.it/details/general-knowledge-science/f82bc5c6-78cd-460b-975c-996f638a2787)
+* [Random kahoot quiz](https://create.kahoot.it/details/java-functional-programming/62f9e300-47e1-4ca4-8c4d-f949ecec3e70)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
