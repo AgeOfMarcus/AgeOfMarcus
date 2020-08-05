@@ -7,17 +7,17 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-05 08:14:20.433888+00:00 UTC
+## Generated at 2020-08-05 11:40:08.215019+00:00 UTC
 
 ### Quotes
 
-> "Fur pillows are hard to actually sleep on" - Kanye
+> "For me, money is not my definition of success. Inspiring people is a definition of success" - Kanye
 
-> "What, you think I'd waste our home teaching you a fucking lesson? I am gonna miss this place, though: Johnny Carson's still alive and on the air, 9/11 never happened, and Rocky Road ice cream has peanut butter and jelly instead of marshmallows." - Rick/Morty
+> "You little monster! I thought you were masturbating!" - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+Bhubaneswar)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+Royals)
 * Latest Covid-19 data: `{'NewConfirmed': 257911, 'TotalConfirmed': 18539385, 'NewDeaths': 6956, 'TotalDeaths': 700634, 'NewRecovered': 221735, 'TotalRecovered': 11134084}`
-* [Random kahoot quiz](https://create.kahoot.it/details/java-functional-programming/62f9e300-47e1-4ca4-8c4d-f949ecec3e70)
+* [Random kahoot quiz](https://create.kahoot.it/details/act-science-set-2/a49f446d-9ed9-43e5-bac3-0e30f847f625)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
