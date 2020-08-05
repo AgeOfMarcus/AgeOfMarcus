@@ -7,17 +7,17 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-05 04:17:12.851312+00:00 UTC
+## Generated at 2020-08-05 06:08:59.218474+00:00 UTC
 
 ### Quotes
 
-> "I'm a creative genius" - Kanye
+> "Today is the best day ever and tomorrow's going to be even better" - Kanye
 
-> "My sister died in the spaghetti." - Rick/Morty
+> "Morty! The principal and I have discussed it, a-a-and we're both insecure enough to agree to a three-way!" - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+Ducks)
-* Latest Covid-19 data: `{'NewConfirmed': 202486, 'TotalConfirmed': 18281475, 'NewDeaths': 4332, 'TotalDeaths': 693678, 'NewRecovered': 222445, 'TotalRecovered': 10912349}`
-* [Random kahoot quiz](https://create.kahoot.it/details/star-wars-memes/1e2bab04-cfb2-4010-b129-4e59a901a7a2)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+YouSeeingThisShit)
+* Latest Covid-19 data: `{'NewConfirmed': 257911, 'TotalConfirmed': 18539385, 'NewDeaths': 6956, 'TotalDeaths': 700634, 'NewRecovered': 221735, 'TotalRecovered': 11134084}`
+* [Random kahoot quiz](https://create.kahoot.it/details/general-knowledge-science/f82bc5c6-78cd-460b-975c-996f638a2787)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
