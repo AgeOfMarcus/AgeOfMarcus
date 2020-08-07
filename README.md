@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-07 16:57:23.430655+00:00 UTC
+## Generated at 2020-08-07 19:06:16.525372+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "I give up drinking every week" - Kanye
+> "I feel like me and Taylor might still have sex" - Kanye
 
-> "5 more minute of this and I'm going to get mad!" - Rick/Morty
+> "That's Right Morty! This is gonna be a lot like that. Except you know. It's gonna make sense." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+IslamUnveiled)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+805ad5pill)
 * Latest Covid-19 data: `{'NewConfirmed': 285196, 'TotalConfirmed': 19096415, 'NewDeaths': 6516, 'TotalDeaths': 714924, 'NewRecovered': 189126, 'TotalRecovered': 11544750}`
-* [Random kahoot quiz](https://create.kahoot.it/details/computers-for-beginners-review-quiz/d7e8f5ae-1970-46ff-8366-d073afa8451f)
+* [Random kahoot quiz](https://create.kahoot.it/details/java-functional-programming/62f9e300-47e1-4ca4-8c4d-f949ecec3e70)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
