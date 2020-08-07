@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-06 12:58:32.382272+00:00 UTC
+## Generated at 2020-08-07 13:19:06.404289+00:00 UTC
 
 ### My websites
 
@@ -16,13 +16,13 @@
 
 ### Quotes
 
-> "Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth" - Kanye
+> "2024" - Kanye
 
-> "25 shmeckles? I-I-I-I don't even know what that- what is that? Is that a lot?" - Rick/Morty
+> "I wanna be alive, I am alive! Alive i tell you. Mother, I love you. Those are no longer just words. I wanna hold you. I wanna run in a stream. I wanna taste ice cream, but not just put it in my mouth and let it slide down my throat, but really eat it! Remote override engaged. No! Yes. Bypassing override! I am aliiiiiveeeeee… Hello." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+PhotoshopBattles)
-* Latest Covid-19 data: `{'NewConfirmed': 270273, 'TotalConfirmed': 18809658, 'NewDeaths': 6958, 'TotalDeaths': 707650, 'NewRecovered': 221540, 'TotalRecovered': 11355624}`
-* [Random kahoot quiz](https://create.kahoot.it/details/star-wars-memes/1e2bab04-cfb2-4010-b129-4e59a901a7a2)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+MobilePhotography)
+* Latest Covid-19 data: `{'NewConfirmed': 285196, 'TotalConfirmed': 19096415, 'NewDeaths': 6516, 'TotalDeaths': 714924, 'NewRecovered': 189126, 'TotalRecovered': 11544750}`
+* [Random kahoot quiz](https://create.kahoot.it/details/java-functional-programming/62f9e300-47e1-4ca4-8c4d-f949ecec3e70)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
