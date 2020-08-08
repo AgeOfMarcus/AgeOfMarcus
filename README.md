@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-08 15:14:11.967976+00:00 UTC
+## Generated at 2020-08-08 16:19:51.998874+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "I leave my emojis bart Simpson color" - Kanye
+> "For me, money is not my definition of success. Inspiring people is a definition of success" - Kanye
 
-> "Listen to your sister Morty; to live is to risk it all; otherwise you're just an inert chunk of randomly assembled molecules drifting wherever the universe blows you. Oh, I'm sorry, Jerry, I didn't see you there, how much of that did you hear?" - Rick/Morty
+> "Not for the men they cheat on." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+outside)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+Xbox)
 * Latest Covid-19 data: `{'NewConfirmed': 280887, 'TotalConfirmed': 19377302, 'NewDeaths': 6388, 'TotalDeaths': 721312, 'NewRecovered': 192526, 'TotalRecovered': 11737276}`
-* [Random kahoot quiz](https://create.kahoot.it/details/earth-space-science-earth-s-place-in-the-solar-system/4e195c37-66d7-448b-82ff-85260ac31d92)
+* [Random kahoot quiz](https://create.kahoot.it/details/science-7-heat-and-temperature-topics-1-6/9413f7ba-114d-4c31-9fa1-d7ed5565846e)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
