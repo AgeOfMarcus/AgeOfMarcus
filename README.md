@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-07 19:06:16.525372+00:00 UTC
+## Generated at 2020-08-08 02:00:38.036383+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "I feel like me and Taylor might still have sex" - Kanye
+> "Perhaps I should have been more like water today" - Kanye
 
-> "That's Right Morty! This is gonna be a lot like that. Except you know. It's gonna make sense." - Rick/Morty
+> "A price for everything." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+805ad5pill)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+GenderCritical)
 * Latest Covid-19 data: `{'NewConfirmed': 285196, 'TotalConfirmed': 19096415, 'NewDeaths': 6516, 'TotalDeaths': 714924, 'NewRecovered': 189126, 'TotalRecovered': 11544750}`
-* [Random kahoot quiz](https://create.kahoot.it/details/java-functional-programming/62f9e300-47e1-4ca4-8c4d-f949ecec3e70)
+* [Random kahoot quiz](https://create.kahoot.it/details/act-science-set-1/e7a0003e-b08c-4a45-b191-b5695391acc7)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
