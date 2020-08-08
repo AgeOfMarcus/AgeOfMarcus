@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-08 06:03:59.432174+00:00 UTC
+## Generated at 2020-08-08 13:39:17.134183+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "You can't look at a glass half full or empty if it's overflowing." - Kanye
+> "Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun." - Kanye
 
-> "I'm man enough to simply say, 'I'm going to poop', and I'd be honored to have Ron Howard involved." - Rick/Morty
+> "They're not infinite universes left in sync with the show." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+Worship)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+Polyfidelity)
 * Latest Covid-19 data: `{'NewConfirmed': 280887, 'TotalConfirmed': 19377302, 'NewDeaths': 6388, 'TotalDeaths': 721312, 'NewRecovered': 192526, 'TotalRecovered': 11737276}`
-* [Random kahoot quiz](https://create.kahoot.it/details/general-literary-trivia/a463a1a1-84bd-4d77-ba3a-2b18b2cb43af)
+* [Random kahoot quiz](https://create.kahoot.it/details/science-lab-safety/15a1d189-9c24-4e42-85dd-7cd60f6841d8)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
