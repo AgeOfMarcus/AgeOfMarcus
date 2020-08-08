@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-08 03:14:25.976672+00:00 UTC
+## Generated at 2020-08-08 06:03:59.432174+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "Style is genderless" - Kanye
+> "You can't look at a glass half full or empty if it's overflowing." - Kanye
 
-> "Rikitikitavi, bitch!" - Rick/Morty
+> "I'm man enough to simply say, 'I'm going to poop', and I'd be honored to have Ron Howard involved." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+asoanamerican)
-* Latest Covid-19 data: `{'NewConfirmed': 285196, 'TotalConfirmed': 19096415, 'NewDeaths': 6516, 'TotalDeaths': 714924, 'NewRecovered': 189126, 'TotalRecovered': 11544750}`
-* [Random kahoot quiz](https://create.kahoot.it/details/new-zealand-general-knowledge/bf3924ee-8fef-496f-a7b1-a3461b992ebe)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+Worship)
+* Latest Covid-19 data: `{'NewConfirmed': 280887, 'TotalConfirmed': 19377302, 'NewDeaths': 6388, 'TotalDeaths': 721312, 'NewRecovered': 192526, 'TotalRecovered': 11737276}`
+* [Random kahoot quiz](https://create.kahoot.it/details/general-literary-trivia/a463a1a1-84bd-4d77-ba3a-2b18b2cb43af)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
