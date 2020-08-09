@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-08 16:19:51.998874+00:00 UTC
+## Generated at 2020-08-09 13:39:06.929744+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "For me, money is not my definition of success. Inspiring people is a definition of success" - Kanye
+> "Believe in your flyness...conquer your shyness." - Kanye
 
-> "Not for the men they cheat on." - Rick/Morty
+> "I can finally go on that trip I've been talking about." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+Xbox)
-* Latest Covid-19 data: `{'NewConfirmed': 280887, 'TotalConfirmed': 19377302, 'NewDeaths': 6388, 'TotalDeaths': 721312, 'NewRecovered': 192526, 'TotalRecovered': 11737276}`
-* [Random kahoot quiz](https://create.kahoot.it/details/science-7-heat-and-temperature-topics-1-6/9413f7ba-114d-4c31-9fa1-d7ed5565846e)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+BackTheBlue)
+* Latest Covid-19 data: `{'NewConfirmed': 259470, 'TotalConfirmed': 19636772, 'NewDeaths': 5457, 'TotalDeaths': 726765, 'NewRecovered': 201182, 'TotalRecovered': 11938458}`
+* [Random kahoot quiz](https://create.kahoot.it/details/java-functional-programming/62f9e300-47e1-4ca4-8c4d-f949ecec3e70)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
