@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-09 13:39:06.929744+00:00 UTC
+## Generated at 2020-08-09 17:46:37.942443+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "Believe in your flyness...conquer your shyness." - Kanye
+> "I make awesome decisions in bike stores!!!" - Kanye
 
-> "I can finally go on that trip I've been talking about." - Rick/Morty
+> "I wish that shotgun was my penis." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+BackTheBlue)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+SneakyBackgroundFeet)
 * Latest Covid-19 data: `{'NewConfirmed': 259470, 'TotalConfirmed': 19636772, 'NewDeaths': 5457, 'TotalDeaths': 726765, 'NewRecovered': 201182, 'TotalRecovered': 11938458}`
-* [Random kahoot quiz](https://create.kahoot.it/details/java-functional-programming/62f9e300-47e1-4ca4-8c4d-f949ecec3e70)
+* [Random kahoot quiz](https://create.kahoot.it/details/general-knowledge-science/f82bc5c6-78cd-460b-975c-996f638a2787)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
