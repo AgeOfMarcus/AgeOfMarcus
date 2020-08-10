@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-09 21:54:26.993598+00:00 UTC
+## Generated at 2020-08-10 12:39:01.566136+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "Tweeting is legal and also therapeutic" - Kanye
+> "I want the world to be better! All I want is positive! All I want is dopeness!" - Kanye
 
-> "Listen to your sister Morty; to live is to risk it all; otherwise you're just an inert chunk of randomly assembled molecules drifting wherever the universe blows you. Oh, I'm sorry, Jerry, I didn't see you there, how much of that did you hear?" - Rick/Morty
+> "Yo! What up my glip glops!" - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+Bossfight)
-* Latest Covid-19 data: `{'NewConfirmed': 259470, 'TotalConfirmed': 19636772, 'NewDeaths': 5457, 'TotalDeaths': 726765, 'NewRecovered': 201182, 'TotalRecovered': 11938458}`
-* [Random kahoot quiz](https://create.kahoot.it/details/computers-for-beginners-review-quiz/d7e8f5ae-1970-46ff-8366-d073afa8451f)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+InterestingFacts)
+* Latest Covid-19 data: `{'NewConfirmed': 224179, 'TotalConfirmed': 19860951, 'NewDeaths': 4545, 'TotalDeaths': 731310, 'NewRecovered': 176743, 'TotalRecovered': 12115201}`
+* [Random kahoot quiz](https://create.kahoot.it/details/star-wars-memes/1e2bab04-cfb2-4010-b129-4e59a901a7a2)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
