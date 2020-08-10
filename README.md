@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-10 12:39:01.566136+00:00 UTC
+## Generated at 2020-08-10 16:01:58.363316+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "I want the world to be better! All I want is positive! All I want is dopeness!" - Kanye
+> "If I got any cooler I would freeze to death" - Kanye
 
-> "Yo! What up my glip glops!" - Rick/Morty
+> "Not for the men they cheat on." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+InterestingFacts)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+Nationalism)
 * Latest Covid-19 data: `{'NewConfirmed': 224179, 'TotalConfirmed': 19860951, 'NewDeaths': 4545, 'TotalDeaths': 731310, 'NewRecovered': 176743, 'TotalRecovered': 12115201}`
-* [Random kahoot quiz](https://create.kahoot.it/details/star-wars-memes/1e2bab04-cfb2-4010-b129-4e59a901a7a2)
+* [Random kahoot quiz](https://create.kahoot.it/details/java-functional-programming/62f9e300-47e1-4ca4-8c4d-f949ecec3e70)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
