@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-10 17:11:41.142774+00:00 UTC
+## Generated at 2020-08-10 20:56:23.402890+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try." - Kanye
+> "George Bush doesn't care about black people" - Kanye
 
-> "I'm sorry, Morty. It's a bummer. In reality you're as dumb as they come." - Rick/Morty
+> "My name is Slip- Slippery Stair. I'll take ya down there for 25 shmeckels!" - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+mcmaster)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+FatPeopleHate)
 * Latest Covid-19 data: `{'NewConfirmed': 224179, 'TotalConfirmed': 19860951, 'NewDeaths': 4545, 'TotalDeaths': 731310, 'NewRecovered': 176743, 'TotalRecovered': 12115201}`
-* [Random kahoot quiz](https://create.kahoot.it/details/computers-for-beginners-review-quiz/d7e8f5ae-1970-46ff-8366-d073afa8451f)
+* [Random kahoot quiz](https://create.kahoot.it/details/java-functional-programming/62f9e300-47e1-4ca4-8c4d-f949ecec3e70)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
