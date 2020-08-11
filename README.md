@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-11 14:57:43.610844+00:00 UTC
+## Generated at 2020-08-11 17:49:06.949174+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "Burn that excel spread sheet" - Kanye
+> "I'm nice at ping pong" - Kanye
 
-> "Lookin' good!" - Rick/Morty
+> "You look it up, you don't- you don't even know what it means." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+ResearchAndDevelopment)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+blackpeopletwitter)
 * Latest Covid-19 data: `{'NewConfirmed': 227941, 'TotalConfirmed': 20088890, 'NewDeaths': 4913, 'TotalDeaths': 736223, 'NewRecovered': 164695, 'TotalRecovered': 12279869}`
-* [Random kahoot quiz](https://create.kahoot.it/details/star-wars-memes/1e2bab04-cfb2-4010-b129-4e59a901a7a2)
+* [Random kahoot quiz](https://create.kahoot.it/details/java-functional-programming/62f9e300-47e1-4ca4-8c4d-f949ecec3e70)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
