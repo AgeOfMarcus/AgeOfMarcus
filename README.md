@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-11 09:04:45.872418+00:00 UTC
+## Generated at 2020-08-11 12:36:10.664847+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle" - Kanye
+> "I wish I had a friend like me" - Kanye
 
-> "Are you invisible and you're gonna, like, fart on me?" - Rick/Morty
+> "It's a dream, Morty! We're in your dog's dream. The night the dogs captured us, after you cried and crapped your pants, we-we all went to sleep. Then I used my dream inceptors to put the two of us inside Snuffles' dream." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+Texas)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+Nintendo)
 * Latest Covid-19 data: `{'NewConfirmed': 227941, 'TotalConfirmed': 20088890, 'NewDeaths': 4913, 'TotalDeaths': 736223, 'NewRecovered': 164695, 'TotalRecovered': 12279869}`
-* [Random kahoot quiz](https://create.kahoot.it/details/act-science-set-1/e7a0003e-b08c-4a45-b191-b5695391acc7)
+* [Random kahoot quiz](https://create.kahoot.it/details/act-science-set-2/a49f446d-9ed9-43e5-bac3-0e30f847f625)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
