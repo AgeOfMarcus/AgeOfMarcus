@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-11 19:56:22.795513+00:00 UTC
+## Generated at 2020-08-11 23:29:20.027053+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "People only get jealous when they care." - Kanye
+> "All you have to be is yourself" - Kanye
 
-> "'Quantum carburetor'? Jesus, Morty. You can't just add a Sci-Fi word to a car word and hope it means something... Huh, looks like something's wrong with the microverse battery. We're gonna have to go inside." - Rick/Morty
+> "Morty, please. Step back. That vat is full of acid. It will melt you completely, leaving only your bones." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+LinuxMint)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+Shenanigans)
 * Latest Covid-19 data: `{'NewConfirmed': 227941, 'TotalConfirmed': 20088890, 'NewDeaths': 4913, 'TotalDeaths': 736223, 'NewRecovered': 164695, 'TotalRecovered': 12279869}`
 * [Random kahoot quiz](https://create.kahoot.it/details/java-functional-programming/62f9e300-47e1-4ca4-8c4d-f949ecec3e70)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
