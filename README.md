@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-12 12:39:18.585553+00:00 UTC
+## Generated at 2020-08-12 14:19:39.438585+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "2024" - Kanye
+> "Fur pillows are hard to actually sleep on" - Kanye
 
-> "Awwww thanks, bitch!" - Rick/Morty
+> "Morty, can you get to the left nipple?" - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+FreeRepForYou)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+Uglydogs)
 * Latest Covid-19 data: `{'NewConfirmed': 254134, 'TotalConfirmed': 20343024, 'NewDeaths': 11058, 'TotalDeaths': 747233, 'NewRecovered': 304952, 'TotalRecovered': 12584821}`
 * [Random kahoot quiz](https://create.kahoot.it/details/computers-for-beginners-review-quiz/d7e8f5ae-1970-46ff-8366-d073afa8451f)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
