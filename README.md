@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-12 09:52:30.102766+00:00 UTC
+## Generated at 2020-08-12 12:39:18.585553+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "My greatest award is what I'm about to do." - Kanye
+> "2024" - Kanye
 
-> "Countries known for their sexually aggressive men." - Rick/Morty
+> "Awwww thanks, bitch!" - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+ArtPorn)
-* Latest Covid-19 data: `{'NewConfirmed': 194709, 'TotalConfirmed': 20283599, 'NewDeaths': 4933, 'TotalDeaths': 741108, 'NewRecovered': 304952, 'TotalRecovered': 12584821}`
-* [Random kahoot quiz](https://create.kahoot.it/details/java-functional-programming/62f9e300-47e1-4ca4-8c4d-f949ecec3e70)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+FreeRepForYou)
+* Latest Covid-19 data: `{'NewConfirmed': 254134, 'TotalConfirmed': 20343024, 'NewDeaths': 11058, 'TotalDeaths': 747233, 'NewRecovered': 304952, 'TotalRecovered': 12584821}`
+* [Random kahoot quiz](https://create.kahoot.it/details/computers-for-beginners-review-quiz/d7e8f5ae-1970-46ff-8366-d073afa8451f)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
