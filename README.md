@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-12 23:12:45.905218+00:00 UTC
+## Generated at 2020-08-17 13:06:37.202820+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "My greatest award is what I'm about to do." - Kanye
+> "Man... whatever happened to my antique fish tank?" - Kanye
 
-> "No jumping in the sewer!" - Rick/Morty
+> "Oh no. I'm late to class, bitch." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+Hearthstone)
-* Latest Covid-19 data: `{'NewConfirmed': 253314, 'TotalConfirmed': 20341340, 'NewDeaths': 6432, 'TotalDeaths': 742586, 'NewRecovered': 304946, 'TotalRecovered': 12584578}`
-* [Random kahoot quiz](https://create.kahoot.it/details/computers-for-beginners-review-quiz/d7e8f5ae-1970-46ff-8366-d073afa8451f)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+CNN)
+* Latest Covid-19 data: `{'NewConfirmed': 212457, 'TotalConfirmed': 21670028, 'NewDeaths': 4181, 'TotalDeaths': 775206, 'NewRecovered': 231052, 'TotalRecovered': 13675905}`
+* [Random kahoot quiz](https://create.kahoot.it/details/star-wars-memes/1e2bab04-cfb2-4010-b129-4e59a901a7a2)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
