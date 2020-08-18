@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-17 13:06:37.202820+00:00 UTC
+## Generated at 2020-08-18 23:21:53.571157+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "Man... whatever happened to my antique fish tank?" - Kanye
+> "I'm nice at ping pong" - Kanye
 
-> "Oh no. I'm late to class, bitch." - Rick/Morty
+> "Those guys are inside you building a piece of shit Ethan! They're inside you building a monument to compromise! Fuck them, fuck those people, fuck this whole thing Ethan." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+CNN)
-* Latest Covid-19 data: `{'NewConfirmed': 212457, 'TotalConfirmed': 21670028, 'NewDeaths': 4181, 'TotalDeaths': 775206, 'NewRecovered': 231052, 'TotalRecovered': 13675905}`
-* [Random kahoot quiz](https://create.kahoot.it/details/star-wars-memes/1e2bab04-cfb2-4010-b129-4e59a901a7a2)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+TheAbandonedMcDonalds)
+* Latest Covid-19 data: `{'NewConfirmed': 209642, 'TotalConfirmed': 21879628, 'NewDeaths': 4130, 'TotalDeaths': 773996, 'NewRecovered': 211421, 'TotalRecovered': 13887293}`
+* [Random kahoot quiz](https://create.kahoot.it/details/earth-space-science-earth-s-place-in-the-solar-system/4e195c37-66d7-448b-82ff-85260ac31d92)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
