@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-18 23:21:53.571157+00:00 UTC
+## Generated at 2020-08-19 23:22:01.559056+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "I'm nice at ping pong" - Kanye
+> "My greatest pain in life is that I will never be able to see myself perform live." - Kanye
 
-> "Those guys are inside you building a piece of shit Ethan! They're inside you building a monument to compromise! Fuck them, fuck those people, fuck this whole thing Ethan." - Rick/Morty
+> "Where do you want to die?" - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+TheAbandonedMcDonalds)
-* Latest Covid-19 data: `{'NewConfirmed': 209642, 'TotalConfirmed': 21879628, 'NewDeaths': 4130, 'TotalDeaths': 773996, 'NewRecovered': 211421, 'TotalRecovered': 13887293}`
-* [Random kahoot quiz](https://create.kahoot.it/details/earth-space-science-earth-s-place-in-the-solar-system/4e195c37-66d7-448b-82ff-85260ac31d92)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+Dickinson)
+* Latest Covid-19 data: `{'NewConfirmed': 255005, 'TotalConfirmed': 22134633, 'NewDeaths': 6874, 'TotalDeaths': 780870, 'NewRecovered': 228085, 'TotalRecovered': 14115378}`
+* [Random kahoot quiz](https://create.kahoot.it/details/star-wars-memes/1e2bab04-cfb2-4010-b129-4e59a901a7a2)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
