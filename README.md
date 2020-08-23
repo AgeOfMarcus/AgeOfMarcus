@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-20 23:40:11.275964+00:00 UTC
+## Generated at 2020-08-23 23:23:42.722852+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "People only get jealous when they care." - Kanye
+> "Let's be like water" - Kanye
 
-> "Must… continue… moving… in… ways… that… lead… to… dying… with… you." - Rick/Morty
+> "There's a lesson here and I'm not going to be the one to figure it out." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+ReTArdJAiL)
-* Latest Covid-19 data: `{'NewConfirmed': 274240, 'TotalConfirmed': 22408873, 'NewDeaths': 6764, 'TotalDeaths': 787634, 'NewRecovered': 217437, 'TotalRecovered': 14332815}`
-* [Random kahoot quiz](https://create.kahoot.it/details/star-wars-memes/1e2bab04-cfb2-4010-b129-4e59a901a7a2)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+RuqqusEBookClub)
+* Latest Covid-19 data: `{'NewConfirmed': 254211, 'TotalConfirmed': 23200844, 'NewDeaths': 5163, 'TotalDeaths': 804375, 'NewRecovered': 199034, 'TotalRecovered': 14910035}`
+* [Random kahoot quiz](https://create.kahoot.it/details/computers-for-beginners-review-quiz/d7e8f5ae-1970-46ff-8366-d073afa8451f)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
