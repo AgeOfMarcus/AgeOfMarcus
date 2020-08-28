@@ -7,7 +7,7 @@
 
 # [Auto README.md Below](https://repl.it/@MarcusWeinberger/auto-git-readme)
 
-## Generated at 2020-08-25 23:39:09.363417+00:00 UTC
+## Generated at 2020-08-28 23:12:14.376523+00:00 UTC
 
 ### My websites
 
@@ -17,13 +17,13 @@
 
 ### Quotes
 
-> "I'm nice at ping pong" - Kanye
+> "I care. I care about everything. Sometimes not giving a f#%k is caring the most." - Kanye
 
-> "Oh, I'm sorry Morty, are you the scientist or are you the kid who wanted to get laid?" - Rick/Morty
+> "He's not a hot girl. He can't just bail on his life and set up shop in someone else's." - Rick/Morty
 
 ### Other
 
-* [Random Guild on ruqqus.com](https://ruqqus.com/+PunksandAnarchists)
-* Latest Covid-19 data: `{'NewConfirmed': 226979, 'TotalConfirmed': 23644647, 'NewDeaths': 4346, 'TotalDeaths': 812981, 'NewRecovered': 200042, 'TotalRecovered': 15335952}`
-* [Random kahoot quiz](https://create.kahoot.it/details/computers-for-beginners-review-quiz/d7e8f5ae-1970-46ff-8366-d073afa8451f)
+* [Random Guild on ruqqus.com](https://ruqqus.com/+AnimalsBeingJerks)
+* Latest Covid-19 data: `{'NewConfirmed': 278892, 'TotalConfirmed': 24452726, 'NewDeaths': 5890, 'TotalDeaths': 831544, 'NewRecovered': 202818, 'TotalRecovered': 15995801}`
+* [Random kahoot quiz](https://create.kahoot.it/details/earth-science-erosion-and-deposition-by-water/4330af5b-a29a-4a29-95de-0af413325ef0)
 * [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ctSGJtddpYuzo1mT-6gmRa?value1=GitHub)
