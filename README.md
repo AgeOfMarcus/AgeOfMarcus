@@ -12,7 +12,9 @@
 * [i.marcusj.tech - image hosting](https://i.marcusj.tech)
 * [notes.marcusj.tech - note taking with markdown and html support - live rendering](https://notes.marcusj.tech)
 * [mail.marcusj.tech - temporary email](https://mail.marcusj.tech)
-* [shell.marcusj.tech - an online linux shell environment for testing purposes](https://shell.marcusj.tech)
+* [dash.marcusj.tech - my dashy instance](https://dash.marcusj.tech)
+* [marcus.hashnode.dev - my hashnode blog](https://marcus.hashnode.dev)
+* [searchgpt.marcusj.tech - internet assisted chatbot service via telegram messenger](https://searchgpt.marcusj.tech)
 
 ### Links
 
