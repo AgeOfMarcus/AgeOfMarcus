@@ -5,8 +5,6 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/pwned_by_marcus?style=for-the-badge)
 
-![View Count](https://ripgvc.herokuapp.com/?username=AgeOfMarcus)
-
 ### My websites
 
 * [i.marcusj.org - image hosting](https://i.marcusj.org)
@@ -14,7 +12,6 @@
 * [mail.marcusj.org - temporary email](https://mail.marcusj.org)
 * [dash.marcusj.org - my dashy instance](https://dash.marcusj.org)
 * [marcus.hashnode.dev - my hashnode blog](https://marcus.hashnode.dev)
-* [searchgpt.marcusj.org - internet assisted chatbot service via telegram messenger](https://searchgpt.marcusj.org)
 
 ### Links
 
